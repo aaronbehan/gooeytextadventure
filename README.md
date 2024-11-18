@@ -1,3 +1,5 @@
+![gtathumbnail](https://github.com/user-attachments/assets/989d0d47-721d-4dc2-94e5-337937337261)
+
 A GUI based text adventure.
 
 I made this program in order to learn the ins and outs of GUI's. I used Python's Tkinter module as Python was my strongest language. My secondary goal was to create an application which required no tutorial or manual and could teach a user how to play itself. I aimed to achieve this through a combination of pain-free trial and error and an uncomplicated, uncluttered, user-friendly interface.
