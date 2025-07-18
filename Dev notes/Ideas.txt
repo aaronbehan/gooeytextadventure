@@ -1,0 +1,101 @@
+Ideas:
+
+Turn it into a Discord bot that interprets your messages.
+
+Online Microsoft Sam TTS Generator to read the text out? Mary's voice is best.
+
+A scoreboard with various stats at the end of the game. Encourages thought about alternative ways to beat the game. 
+Number of enemies killed. Number of items obtained out of 100%. Rooms explored out of ?? Time taken to beat it. I could try to guess the player's class by the end. 
+
+At the menu, insert a bestiary page. First showing black silhouettes of all the monsters. When the player encounters a monster, the bestiary page is populated with information and the silhouette is no longer blacked out. It may suggest to the player that there's a wider world to be explored outside of the one corridor and could encourage them to find ways to encounter the other beasties. Add a percentage too to let them know how close they are to completing it. Maybe if there's a secret boss then that could be omitted though.
+
+An item that lets you see the health of enemies by observing.
+
+An equip item that automatically consumes a healing item whenever you're about to die and adds its healing value to your health prolonging your life.
+
+Monocle to reveal a prominent BRICK sticking out of wall in room. Not necessary to actually activate it but player wouldn't know that there's a secret to be discovered there.
+
+Depending on what monster is present at the time of death, custom death messages could be written. Might be too much text though unless it replaces the attack message text altogether.
+
+New disease: ENTHRALLED? by vampire? by kraken?
+New disease: GLUTTONY? immediately consume any consumable regardless of health points
+New disease: AGED? lower max health? inflicted by ghost? slowness. increases enemy crit rate.
+New disease: PETRIFICATION/PARALYSIS? occasionally miss a turn to attack? that might be extremely annoying. use sparingly if at all. 
+New disease: BLINDED? less likely to land crits
+New disease: DEPRESSION. spawn rate increase. maybe even introduce a new monster. a bully that only targets especially vulnerable player. THE HAG. alternatively, an injury that attracts a monster like sharks to blood. maybe a fungal infection to attract a giant deadly caterpillar or slug
+New disease: FEAR? instead of attack, the player is forced to move in a random direction, triggering fleeing mechanic. 
+
+HERBS WILL ALWAYS CURE THE FIRST DISEASE AT INDEX 0. THIS PUTS THE PLAYER IN A FUNNY SPOT WHERE UNDEAD IS AT RISK AND IT ALMOST PROTECTS OTHER DETRIMENTAL DISEASES. HAVE ANOTHER CONSUMABLE THAT ALWAYS TARGETS DISEASE AT INDEX -1. MAYBE ONLY ONE OR TWO OF THEM IN THE GAME THOUGH SO THEY'RE A BIT PRECIOUS. ALSO I WANT DISEASES TO BE FEARED
+
+POTION THAT ALLOWS THE PLAYER TO SAVE? Resident Evil style ink ribbons means they're always incentivised to go back to the room that should have the suspicious brick in the wall.
+
+A weapon that never misses.
+
+Bolt cutters for a chained door. could probably use something more fitting to deal with chains. but couldn't the player use that on the dragon? maybe bolt cutters are necessary to free dragon.
+could use that VERY SAME CHAIN to attach to a watermill and attach it to a door or something very very heavy and then use the power of the mill to drag it out of the way or move it to another location
+
+A horse or donkey mount? if overencumberment is added, maybe this could be the answer to that. Backpack as alternative. easy sprite to paint.
+
+A portal opener to a room. insta travel.
+
+pool room. must wade through. insects in the water that inflict disease? damage? how to protect against? inspired by the blood pool from buddhist lore. A BOAT??? entire sections of the map for the boat?
+
+could be a room split in two.. by a ravine? and you use the ladder as a bridge. if you have over X items, the ladder breaks under your weight. if not, you can cross over and access the other side.
+
+slime rod? control a slime. what could it do .. sink into some cracks to stick to something and bring it back up? 
+
+consumable item to make one other item indestructible/enchant. bucket to break after a certain amount of damage has been absorbed by it. ability to RENAME an item. like naming the wand "death stick". "you zap the skeleton with death stick". would need to check overlap with existing names.. probably not worth it
+
+item to decrease spawn rate (possibly for speed runners) OR increase escape chance. boots!
+
+throw coin in well to make a wish
+
+perhaps with wizard hat, hands become super powerful? may make other weapons totally redundant though. an end game achievement. would also be much more valuable if weapons do indeed have diminishing durability. also come up with a way to repair weapons. duct tape! 
+
+item to let you look into a monster's mind. not talk, as it's not two-way but you can hear what drives it. perhaps there are some that allude to secrets in the map? weaknesses? lore? it could be the imp who serves as translator for all monsters.
+
+use hp to use most powerful magic weapon. ineffective against beholder (prbobably won't use beholder to avoid lawsuit). could have the wand as a super awesome tool not just used for combat. if you type in a magic word for example, player can roleplay fricken harry potter and change the wand's effect to one of various effects. 
+set things on fire (ignis - make matches finite). 
+zap with lightning (fulgur). 
+to blind (caeco). 
+to explode.
+to freeze. (could be used to freeze a body of water to walk across it)
+to summon. open a portal through which a part of a monster can pass. portal opens and a giant fiendish arm extends or tentacles/tendrils.
+to change something into food (transmutare - maybe OP if spell cost = HP. slow regeneration tied to movement may be more balanced). 
+to repair (reparare). 
+to illuminate (illuminare). HOW TO LEARN THESE VARIOUS SPELLS? maybe a lich/sorcerer who uses the wand. he speaks the spells during the battle and you copy when you have the wand. the WITCH could say fulgur. then  maybe bosses are generally resistent to the wand. 
+
+IF YOU HAVE TOO MUCH FOOD PERHAPS YOU'LL ATTRACT A NEW MONSTER. LIKE A BEAR THAT SMELLS YOUR FOOD. OR THE WORM THAT JUST PESTERS YOU WITH BLINDNESS AND EATS THE EXCESS FOOD, HEALING ITSELF. 
+
+Kraken guarding underwater area or bridge? Drain water to handicap it
+
+a creature that kidnaps you and takes you to a particular, inconvenient coordinate? could just be super annoying. could also be a cool way to introduce a new jail area to the player. inspired by the dnd bagman
+
+there could be a part where the player comes across the bars of a cage carved into the wall. it's totally dark in there. maybe breathing can be heard or rustling but nothing can be interacted with beyond that. THEN after beating something like the beholder or whatever, you're lefting standing in its lair and there's a lever. you pull it and here the distant clanging of metal as something opens. investigate the dark cage to find evidence of what you just inadvertently freed. could be a vampire. or the mind flayer
+
+torch to light dark place. torch increases accuracy? but perhaps attracts monsters? perhaps a certain kind of monster is weak to fire..?
+
+rope
+
+fire charm to be used to get something else so it's not so one dimensional. traverse lava or put your hand in an oven or something.
+
+a balloon... or something like a clone that you can use to explore while the actual player is stationary. 1 health point so it's very fragile but its eyes are the player's eyes. change interface to 1. go 2. observe 3. burst? if it bursts it inflicts fear on a monster? 
+
+Craft a bomb? 3 components? for the sake of either destroying golem or blowing up a wall, structure. perhaps the bomb could be used as a one time cheat for a boss or puzzle. can't get past the gazer? blow him up. can't find the lock for a door? blow it up. but lose the bomb forever afterwards. if you're holding the flammable material, maybe a fiery monster could set it off if it attacks.
+
+Suspended cage dangling from ceiling. ladder couldn't be used for that.
+
+A creature that drops really valuable loot, but if you attack it, it calls a totally separate monster which is really strong so you're faced with the question of whether you can kill this thing quickly enough that it doesn't call beastie
+
+A little worm with very low health but continuously spits at you to lower your chance of hitting it. if you allow it to metamorphose then it turns into a reaper from resident evil 5 and is extremely dangerous you up. Kill it quick or run away early.
+
+A powerful knight that only appears to player who have full health.
+
+TOO CHEAP? a monster that doesn't have to be on the same square as the player in order to inflict damage. a stone thrower? thinking of the beast titan. "you were pelted by a stone from the north. you took 1 damage"
+
+if they beat the game without killing a single thing, they get the code to a dragon companion who does lots of damage and raises hp? also flies (makes ladder redundant)? in inventory, add "fire" and "wings" perhaps.
+if they beat the game normally, they get the imp familiar who can steal things? pick things up? adds a bit more damage? talks to monsters?
+
+able to pick up ladder. be able to go through roof in garden. able to climb chimney? after placing ladder, (removing it from inventory) find that there's another high place puzzle. create dark souls-like short cut to retrieve ladder and bring it back up to the spot. LADDER SHOULD BE ABLE TO BE USED TO GET BUCKET. BUT BUCKET HAS A HOLE IN IT :(
+
+could have a variable that acts like a count. starts at 0. if there are any instances where i need to split up text, i could add to that count by how many times the programme should idle (do nothing after pressing enter). it may be better than whatever i've got so far.
